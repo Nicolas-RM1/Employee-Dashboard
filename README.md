@@ -37,4 +37,4 @@ The dashboard helps monitor and analyze key employee metrics, enabling data-driv
 
 ## Project Purpose
 
-This project is part of my data analysis portfolio. It showcases my ability to transform raw HR data into clear, actionable insights using Excel.
+This project is part of my data analysis portfolio. It showcases my ability to transform raw HR data into clear, actionable insights using Excel
